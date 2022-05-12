@@ -6,3 +6,6 @@ Permette di installare il desktop grafico su fedora server 33
 
 # server-client.sh
 Converte l'installazione di fedora 33 server in fedora 33 workstation.
+
+# Note
+Questo codice è poco più di una demo.
