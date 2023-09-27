@@ -9,3 +9,7 @@ Converte l'installazione di fedora 33 server in fedora 33 workstation.
 
 # Note
 Questo codice è poco più di una demo.
+
+# Donazioni
+
+http://numerone.altervista.org/donazioni.php
